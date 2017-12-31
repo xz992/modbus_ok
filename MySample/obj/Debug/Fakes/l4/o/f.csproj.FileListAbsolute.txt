@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\FtdAdapter.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Unme.Common.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Unme.Common.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\log4net.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\log4net.Fakes.pdb

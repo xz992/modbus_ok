@@ -1,0 +1,59 @@
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\MySample.exe.config
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\MySample.exe
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\MySample.pdb
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\FtdAdapter.dll
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\log4net.dll
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\Modbus.dll
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\Unme.Common.dll
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\FtdAdapter.pdb
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\FtdAdapter.xml
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\Modbus.pdb
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\Modbus.xml
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\log4net.xml
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\bin\Debug\Unme.Common.xml
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\obj\Debug\MySample.exe
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\obj\Debug\MySample.pdb
+C:\Users\xuan\Desktop\NModbus-source\source\src\MySample\obj\Debug\MySample.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Desktop\NModbus-source\source\src - 副本\MySample\bin\Debug\MySample.exe.config
+C:\Users\xuan\Desktop\NModbus-source\source\src - 副本\MySample\obj\Debug\MySample.exe
+C:\Users\xuan\Desktop\NModbus-source\source\src - 副本\MySample\obj\Debug\MySample.pdb
+C:\Users\xuan\Desktop\NModbus-source\source\src - 副本\MySample\bin\Debug\MySample.exe
+C:\Users\xuan\Desktop\NModbus-source\source\src - 副本\MySample\bin\Debug\MySample.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\MySample.exe.config
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\MySample.exe
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\MySample.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\MySample.exe
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\MySample.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\MySample.csprojFakesResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\Modbus.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\Modbus.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\Unme.Common.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\fakes.args
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\FtdAdapter.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.fakesconfig
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.Fakes.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\log4net.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Modbus.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Unme.Common.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\b\Unme.Common.xml
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.ah
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.ch
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.cs
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.csproj
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.fakes
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.fakesconfig
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\f.snk
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\f.csproj.FileListAbsolute.txt
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\log4net.Fakes.dll
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\Fakes\l4\o\log4net.Fakes.pdb
+C:\Users\Administrator\Desktop\modbus_ok\MySample\obj\Debug\MySample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\modbus_ok\MySample\bin\Debug\log4net.Fakes.fakesconfig
